@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;900&display=swap");
+body { background: #B3CBB9; color: #070707; font-family: "Inter", sans-serif; padding-top: 50px; padding-bottom: 50px; }
+
+p { color: #272727; }
+
+#clap-animation { max-width: 300px; margin: 0 auto; }
+
+#fist-animation { max-width: 300px; margin: 0 auto; }
+
+#hundred-animation { max-width: 150px; margin: 0 auto; }
+
+#hammer-animation { max-width: 200px; margin: 0 auto; }
+
+#cup-animation { max-width: 150px; margin: 0 auto; }
+
+.creative { max-width: 80%; height: auto; margin: 0 auto; }
+
+/*# sourceMappingURL=main.css.map */
